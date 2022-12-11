@@ -1,1 +1,1 @@
-# Automated-Planted-Watering-System
+Automatic-Plant-Watering-System-using-Raspberry-Pi-Pico
